@@ -2,4 +2,27 @@
     <string name="app_name">Belajar Android Dasar</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title">Star Wars \n Rise of Skywalker</string>
+    <string name="genre">Space Fantasy</string>
+    <string name="deskripsi">Star Wars: The Rise of Skywalker (dikenal juga dengan Star Wars: Episode IX - The Rise of Skywalker) adalah film epik opera luar angkasa Amerika tahun 2019 yang diproduksi, ditulis bersama, dan disutradarai oleh J. J. Abrams. Ini adalah angsuran ketiga dari trilogi sekuel Star Wars, mengikuti The Force Awakens (2015) dan The Last Jedi (2017), dan episode terakhir dari sembilan bagian "Skywalker saga</string>
+    <string name="title_release">Release Date</string>
+    <string name="release_date">December 18, 2019</string>
+    <string name="title_director">Director</string>
+    <string name="director">J.J. Abrams</string>
+    <string name="title_produce">Produced by</string>
+    <string name="produce">Kathleen Kennedy
+        J. J. Abrams
+        Michelle Rejwan</string>
+    <string name="title_cast">Cast</string>
+    <string name="cast">
+Carrie Fisher
+
+Leia Organa (archive footage)
+Mark Hamill
+
+Luke Skywalker / Boolio (voice) (as Patrick Williams)
+Adam Driver
+
+</string>
 </resources>
